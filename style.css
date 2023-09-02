@@ -35,7 +35,7 @@ a {
     color: black;
 }
 .icon{
-    font-size: 50px;
+    font-size: 40px;
     line-height: 1.5;
     margin-top: 10px;
     margin-bottom: 20px;
@@ -96,7 +96,6 @@ head{
     z-index: 99;
     display: flex;
     align-items: center;
-    justify-content: center;
     flex-direction: column;
 }
 
