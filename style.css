@@ -1,0 +1,166 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+.menu{
+    float: left;
+    margin-left: 4%;
+    font-size: large;
+}
+.search{
+    float: right;
+margin-right: 2%;
+margin-top: 0%;
+   
+}
+.sidebarimage{
+    width: 60%;
+    height: 20%;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10%;
+    padding-top: 10%;
+   
+    
+	
+    
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+.icon{
+    font-size: 50px;
+    line-height: 1.5;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    
+   
+  
+}
+.a{
+    display: inline-block;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.centered-container {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    
+}
+
+
+head{
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #f5f2ed; 
+    color: #fff; 
+    padding: 20px 0;
+    text-align: center;
+    z-index: 100;
+}
+.sidebar-right {
+    position: fixed;
+    top: 60px; 
+    right: 0;
+    width: 250px; 
+    height: 100%; 
+    background-color: #f0f0f0; 
+    z-index: 99; 
+
+}
+.sidebar-left {
+    position: fixed;
+    top: 60px; 
+    left: 0;
+    width: 250px; 
+    height: 100%; 
+    background-color: #f0f0f0; 
+    z-index: 99;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.navbar a {
+    color: #120e0e; 
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+.content {
+    padding: 60px 0 0 0;
+}
+.heading{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    text-align: center;
+    font-size: 45px;
+}
+.iamge{
+    display: inline-block;
+}
+
+.image1{
+    width: 250px; 
+    height: 350px;
+    margin: 75px 0px 0px 0px;
+    margin-left: auto;
+    align-items: center;
+}
+.image2{
+   
+    width: 650px; 
+    height: 200px;
+    display: block; 
+    margin: 35px 0x 0px 0px;
+    margin-right: auto;
+}
+p{
+    width: 40% ;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2{
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+li{
+    list-style: none;
+}
+.Poster{
+   
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 300px;
+  width: 250px;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+.para{
+    text-align: center;
+    width: 0px 500px;
+    font-size: 20px;
+
+}
